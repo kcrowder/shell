@@ -1,0 +1,13 @@
+#!/bin/sh
+#
+# date: 08.12.2010
+# by: keith crowder
+# 
+echo number of arguments passed is $#
+for arg in $*
+do
+	echo $arg
+done
+#
+# end of program
+#

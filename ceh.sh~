@@ -1,0 +1,10 @@
+#!/bin/bash
+#
+# date: 12-22-09
+# by: keith crowder
+# purpose: to install network and security tools, during initial install
+#
+apt-get install nmap zenmap paketto nessus p0f wireshark tshark
+#
+# end of program
+#

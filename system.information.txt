@@ -1,0 +1,111 @@
+Goal: automate this:
+
+System Login Information for HRsmart
+
+Support Online System (SOS) Login Information
+
+Username: pdepaula
+
+Password: C5UKebre
+
+URL:  https://tickets.hrsmart.com
+
+####################################################
+
+Wiki: https://maxwell.hrsmart.com
+
+username pdepaula
+pass     C5UKebre
+
+#####################################################
+
+Mantis Login Information
+
+Username: pdepaula
+Password:  sent via separate email
+
+URL:  http://mantis.hrsmart.com
+
+######################################################
+
+Sugar CRM Login Information
+
+Username: pdepaula@hrsmart.com
+
+Password:  C5UKebre
+
+URL:  https://crm.hrsmart.com
+
+
+At your convenience, please add yourself as a Contact in Sugar.  The
+only required fields are Last Name and Team, but please try to fill in
+as much of your information as you can for our records.
+
+
+Login to Sugar:  https://crm.hrsmart.com
+
+Click on Contacts tab at the top of the page
+
+Click on Create Contact at the left of the page
+
+
+Contact Information” section:
+
+ - First and last name
+
+ - Contact Type: choose “HRsmart Employee”
+
+ - Account Name:  do not hit Select-just start typing “HRsmart, Inc.”
+and pick it from the pull-down list
+
+ - Ignore Lead Source, Lead Source Description, and Area
+
+ - Title
+
+ - Department
+
+ - Birthdate
+
+ - Reports to-hit Select and type in your supervisor’s name and hit
+Search to pick him/her
+
+ - Ignore Sync to Outlook and Do Not Call
+
+ - Team:  this should automatically be filled in as “Global”
+
+ - Assigned To-this should have been provided in the login info email
+sent when you first were hired (if not, just enter your supervisor’s
+email address from the pull-down list)
+
+ - Office Phone, Mobile Phone, Home Phone, and other phone
+
+ - Fax Number
+
+ - Email, and Other Email (home email)
+
+ - Assistant if you have one
+
+ - Ignore Email Opt Out and Invalid Email
+
+
+Address Information Section:
+
+ - Primary: work address (please enter the country too)
+
+ - Other:  home address (please enter the country too)
+
+
+Description Section:
+
+ - Please type in “Start Date” and the date your employment started
+
+
+Then click “Save” and log out of Sugar.
+
+
+Thank you!
+
+############################################################
+
+
+

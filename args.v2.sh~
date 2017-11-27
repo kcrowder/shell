@@ -1,0 +1,7 @@
+#!/bin/sh
+#
+# date: 08.12.2010
+# by: keith crowder
+#
+echo the number of arguments passed is $#
+for
